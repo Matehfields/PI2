@@ -2,4 +2,5 @@
 Segundo projeto integrador
 
 ## Membros
-César Augusto Bergamin
+- César Augusto Bergamin
+- Mateus Tomazetto da Costa
