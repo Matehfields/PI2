@@ -7,4 +7,4 @@ Segundo projeto integrador
 * César Augusto Bergamin
 * Mateus Tomazetto da Costa
 * Lucas José Baldiga
-
+* Vicenzo Fisch Garcez
