@@ -8,5 +8,3 @@ Segundo projeto integrador
 * Mateus Tomazetto da Costa
 * Lucas José Baldiga
 * Vicenzo Fisch Garcez
-
-<!-- teste -->
